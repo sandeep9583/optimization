@@ -1,5 +1,5 @@
 # optimization
-All Search method optimization techniques step wise approch
+All Search method optimization techniques step wise approach
 
 1. Exhaustive search method
 1. Bounding phase method
