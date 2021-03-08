@@ -1,13 +1,13 @@
 # optimization
 All Search method optimization techniques step wise approch
 
-Exhaustive search method
-Bounding phase method
-Interval Halving method
-Fibonacci search method
-Golden Section search method
-Successive Quadratic Estimation Method
-Newton-Raphson Method
-Bisection Method
-Secant Method
-cubic search method
+1. Exhaustive search method
+1. Bounding phase method
+1. Interval Halving method
+1. Fibonacci search method
+1. Golden Section search method
+1. Successive Quadratic Estimation Method
+1. Newton-Raphson Method
+1. Bisection Method
+1. Secant Method
+1. cubic search method
